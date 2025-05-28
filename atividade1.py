@@ -9,8 +9,8 @@ class livro:
         return self._titulo
 
 livro1 = livro ("Mil Beijos de Garoto")
-livro1.definir_titulo ("Mil Beijos de Garoto")
+livro1.definir_titulo ("Até o Verão Terminar")
 print (livro1.mostrar_titulo())
 
-livro2 = livro ("2016")
+livro2 = livro ("Eu e Esse Meu Coração")
 print(livro2.mostrar_titulo())
